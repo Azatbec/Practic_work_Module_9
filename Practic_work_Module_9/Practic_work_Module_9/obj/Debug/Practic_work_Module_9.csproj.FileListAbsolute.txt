@@ -1,0 +1,7 @@
+C:\Users\azatb\source\repos\Practic_work_Module_9\Practic_work_Module_9\bin\Debug\Practic_work_Module_9.exe.config
+C:\Users\azatb\source\repos\Practic_work_Module_9\Practic_work_Module_9\bin\Debug\Practic_work_Module_9.exe
+C:\Users\azatb\source\repos\Practic_work_Module_9\Practic_work_Module_9\bin\Debug\Practic_work_Module_9.pdb
+C:\Users\azatb\source\repos\Practic_work_Module_9\Practic_work_Module_9\obj\Debug\Practic_work_Module_9.csproj.AssemblyReference.cache
+C:\Users\azatb\source\repos\Practic_work_Module_9\Practic_work_Module_9\obj\Debug\Practic_work_Module_9.csproj.CoreCompileInputs.cache
+C:\Users\azatb\source\repos\Practic_work_Module_9\Practic_work_Module_9\obj\Debug\Practic_work_Module_9.exe
+C:\Users\azatb\source\repos\Practic_work_Module_9\Practic_work_Module_9\obj\Debug\Practic_work_Module_9.pdb
